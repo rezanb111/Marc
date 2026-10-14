@@ -3,7 +3,7 @@
  * Update these values to point to your real bot, support, and links.
  */
 export const CONFIG = {
-  botUrl: 'https://t.me/marcenzo',
+  botUrl: 'https://t.me/See30bot',
   supportUrl: 'https://t.me/marcenzo',
   githubUrl: 'https://github.com/rezanb111/marcenzo-loan-bot',
   siteGithubUrl: 'https://github.com/rezanb111/Marc',
