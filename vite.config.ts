@@ -4,6 +4,8 @@ import { fileURLToPath, URL } from 'node:url';
 
 // https://vitejs.dev/config/
 export default defineConfig({
+  // Required for https://rezanb111.github.io/Marc/
+  base: '/Marc/',
   plugins: [react()],
   resolve: {
     alias: {
