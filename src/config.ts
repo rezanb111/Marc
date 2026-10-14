@@ -3,9 +3,10 @@
  * Update these values to point to your real bot, support, and links.
  */
 export const CONFIG = {
-  botUrl: 'https://t.me/YOUR_BOT_USERNAME',
-  supportUrl: 'https://t.me/YOUR_SUPPORT_USERNAME',
-  githubUrl: 'https://github.com/YOUR_ORG/marcenzo',
+  botUrl: 'https://t.me/marcenzo',
+  supportUrl: 'https://t.me/marcenzo',
+  githubUrl: 'https://github.com/rezanb111/marcenzo-loan-bot',
+  siteGithubUrl: 'https://github.com/rezanb111/Marc',
   minLoan: '0.10',
   maxLoan: '100',
   startingCredit: '5',
